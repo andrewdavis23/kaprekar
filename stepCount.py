@@ -1,5 +1,5 @@
 import math
-from kr import kr
+from kapRoutine import kr
 
 # counts the number of iterations of Kaprekar's routine it takes to get to 6174
 
